@@ -70,6 +70,18 @@ fig = px.bar(
     title="Top Required Skills"
 )
 
+
+fig.update_yaxes(
+    tickmode="linear",
+    automargin=True
+)
+
+fig.update_layout(
+    yaxis=dict(
+        tickfont=dict(size=11)
+    )
+)
+
 st.plotly_chart(fig, use_container_width=True)
 
 # -----------------------------
@@ -87,7 +99,13 @@ fig2 = px.density_heatmap(
     x="required_skills",
     y="role",
     z="count",
-    title="Skill Demand by Role"
+    title="Skill Demand by Role",
+    color_continuous_scale="Viridis"
+)
+
+fig2.update_layout(
+    xaxis_tickangle=45,
+    height=600
 )
 
 st.plotly_chart(fig2, use_container_width=True)
