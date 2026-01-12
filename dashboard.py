@@ -87,6 +87,15 @@ st.plotly_chart(fig, use_container_width=True)
 # -----------------------------
 # Plot: Skills by role
 # -----------------------------
+top_skills = (
+    df["required_skills"]
+    .explode()
+    .value_counts()
+    .head(20)
+    .index
+    .tolist()
+)
+
 role_skill_counts = (
     skills_df
     .groupby(["role", "required_skills"])
@@ -94,8 +103,12 @@ role_skill_counts = (
     .reset_index(name="count")
 )
 
+role_skill_counts_top = role_skill_counts[
+    role_skill_counts["required_skills"].isin(top_skills)
+]
+
 fig2 = px.density_heatmap(
-    role_skill_counts,
+    role_skill_counts_top,
     x="required_skills",
     y="role",
     z="count",
