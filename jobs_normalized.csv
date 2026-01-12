@@ -1,0 +1,55 @@
+role,required_skills,required_experience
+Machine Learning Engineer,[],Unspecified
+AI Engineer,"['ai solutions', 'big data', 'cloud', 'docker', 'kalman filter', 'kubernetes', 'machine learning', 'object detection', 'python', 'robotics', 'tensorflow']",Unspecified
+Machine Learning Engineer,[],Unspecified
+N/A,['null'],Unspecified
+N A,[],Unspecified
+N/A,[],Unspecified
+AI Engineer,"['python', 'pytorch']",3–5 years
+Machine Learning Engineer,"['bayesian re-ranking', 'deep learning', 'docker', 'effective work style', 'graph neural networks', 'hugging face', 'image classification', 'logistic regression', 'machine learning', 'model building, evaluation, model optimization', 'model serving pipelines', 'nlp', 'python', 'pytorch', 'sql', 'tensorflow', 'trained on datasets,  clean and healthy data']",>5 years
+Deep Learning Engineer,"['computer vision', 'feature extraction', 'image classification', 'linear algebra', 'machine learning', 'object detection', 'pandas', 'pytorch', 'statistics', 'tensorflow']",3–5 years
+N/A,[],Unspecified
+Machine Learning Engineer,"['agentic frameworks', 'api creation and load testing', 'cloud resources', 'docker', 'llm evaluation', 'machine learning', 'nlp', 'rag']",Unspecified
+AI Engineer,"['algorithmic', 'algorithms', 'data analysis', 'data mining', 'data processing', 'llm', 'nlp', 'rag', 'statistical']",3–5 years
+Data Scientist,"['dataik', 'machine learning', 'python', 'sql', 'statistics']",<3 years
+N/A,[],Unspecified
+N/A,[],Unspecified
+Data Scientist,"['english', 'french', 'numpy', 'pandas', 'python', 'pytorch', 'scikit-learn']",Unspecified
+AI Engineer,"['computer vision', 'machine learning', 'python', 'pytorch']",<3 years
+Data Scientist,"['', 'communication', 'data analysis', 'data science', 'machine learning', 'model development', 'python', 'sql', 'statistics', 'teamwork']",3–5 years
+N/A,[],Unspecified
+Data Scientist,"['data analysis', 'data catalog', 'data management', 'data science', 'data solution', 'data transformation', 'data visualisation', 'ensuring compliance with regulations for data', 'tensorflow', 'tools of ia generative']",Unspecified
+Data Scientist,"['celery', 'docker', 'fastapi', 'git', 'numpy', 'pandas', 'pytest', 'python', 'pytorch', 'scikit-learn', 'sqlalchemy', 'xgboost']",>5 years
+Spontaneous Application,[],Unspecified
+AI Engineer,"['fastapi', 'gemini', 'langchain', 'langfus', 'langgraph', 'mistral', 'openai', 'python']",3–5 years
+Machine Learning Engineer,"['ci/cd', 'cloud', 'cloud infrastructure knowledge (s3, ec2)', 'docker', 'experience with gpu distributed training', 'git', 'machine learning', 'model optimization and performance tuning', 'python']",<3 years
+N/A,"['nlp', 'python', 'tensorflow']",Unspecified
+AI Engineer,[],Unspecified
+Software Engineer,[],Unspecified
+AI Engineer,"['airflow', 'bigquery', 'cloud', 'databricks', 'looker', 'python', 'scikit-learn', 'spark', 'sql', 'tensorflow']",3–5 years
+Data Scientist,"['airflow', 'ci/cd', 'cloud', 'dash', 'docker', 'float', 'git', 'jupiter', 'machine learning', 'pandas', 'python', 'pytorch', 'scikit-learn', 'spark', 'sql', 'tensorflow']",Unspecified
+N/A,[],Unspecified
+Data Scientist,"['cloud', 'kubernetes', 'powerbi', 'python', 'sql', 'vba']",3–5 years
+AI Engineer,"['cloud', 'power bi', 'python', 'snowflake', 'sql', 'tableau']",Unspecified
+Data Scientist,"['assortment optimization', 'cloud', 'data mining', 'data visualization', 'docker', 'elasticity and chaining', 'git', 'kubernetes', 'pricing', 'promotion', 'python', 'sales forecasting', 'sql', 'statistical analysis']",>5 years
+Data Scientist,"['cloud', 'communication', 'data science methodology', 'experience dealing with bots or malware', 'hacker spirit', 'knowledge of web and network infrastructures', 'previous experience in a cyber security company', 'python', 'sql']",<3 years
+Data Engineer,"['adaptability', 'airflow', 'analytical mind', 'autonomy', 'complex problem solving', 'dbms', 'docker', 'engineering', 'english', 'etl', 'exploring new strategies', 'fastapi', 'knowledge transfer', 'kubernetes', 'learning new technologies', 'machine learning', 'object-oriented programming', 'open-source', 'prioritization', 'python', 'rigueur', 'scala (spark)', 'script bash', 'teamwork', 'time management', 'writing level in french/english']",Unspecified
+Data Scientist,"['ci/cd', 'cloud', 'cosmos db', 'data quality', 'git', 'github actions', 'jupiter', 'llms (openai, mistral, llama, claude)', 'machine learning', 'monitoring of models', 'nlp', 'python', 'reproducibility', 'sql', 'sql server', 'version management', 'visual studio code']",Unspecified
+Data Scientist,"['airflow', 'cloud', 'computer vision', 'delta lake', 'machine learning', 'nlp', 'python', 'pytorch', 'spark', 'sql', 'tensorflow']",3–5 years
+Data Scientist,"['analytics', 'data collection', 'decentralised energy resources', 'electrical power systems engineering', 'fastapi', 'fault management', 'git', 'linux', 'performance evaluation of algorithms applied to power systems', 'power flow modelling', 'power quality', 'power system algorithms', 'python', 'real-time monitoring services', 'technical requirements and specification documents']",3–5 years
+Data Scientist,"['bert and its derivatives', 'data modeling', 'git, gitlab', 'interoperability or schema matching', 'machine learning', 'natural language processing (nlp)', 'python', 'written and oral communication in french (c1) and english (b2)']",>5 years
+AI Engineer,"['c#', 'fee', 'java', 'kubernetes', 'langgraph', 'large language models', 'python']",Unspecified
+Nlp Scientist,"['docker', 'music theory', 'nltk', 'python', 'pytorch', 'spacy', 'transformers']",Unspecified
+N/A,[],Unspecified
+Machine Learning Engineer,"['cloud', 'hard', 'opencv', 'pandas', 'python', 'pytorch', 'tensorflow']",3–5 years
+Data Scientist,[],Unspecified
+Data Scientist,"['ability to popularize complex concepts within the profession', 'be comfortable with good development practices (git, ci/cd, etc.)', 'first experience or strong curiosity for generative or agentic ai', 'knowledge of explainability principles and tools (game theory, causal inference, etc.)', 'machine learning', 'python', 'strong mathematical and statistical background']",3–5 years
+Machine Learning Engineer,"['airflow', 'clean code', 'cloud', 'days', 'docker', 'dvc', 'fastapi', 'feature stores', 'flask', 'git', 'kubeflow', 'kubernetes', 'machine learning', 'packaging', 'pandas', 'python', 'pytorch', 'scikit-learn', 'tdd', 'tensorflow', 'terraform', 'unit/integration testing']",Unspecified
+N/A,[],Unspecified
+AI Engineer,"['.net', 'anomalib', 'blazor', 'c#', 'iotedge', 'linux', 'machine learning', 'opencv', 'pil', 'powerbi', 'python', 'pytorch']",<3 years
+N/A,[],Unspecified
+Data Engineer,"['amazon web services', 'cloud', 'data leak', 'data migration', 'data modeling', 'data warehouse', 'databricks', 'hadoop', 'hbase', 'hdfs', 'hive', 'java', 'kafka', 'python', 'scala', 'snowflake', 'spark', 'tensorflow']",Unspecified
+AI Engineer,"['cloud', 'communication', 'complex technical concepts', 'databases', 'databricks', 'genai', 'machine learning', 'modern ai frameworks', 'pipelines', 'python', 'sql']",Unspecified
+N/A,[],Unspecified
+AI Engineer,"['customer relationship management', 'hugging face', 'large language models (llms)', 'mysql', 'node.js', 'openai', 'postgresql', 'python', 'pytorch', 'react', 'typescript']",Unspecified
+N/A,[],Unspecified
